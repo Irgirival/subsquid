@@ -199,3 +199,5 @@ To start an API server (at port 4350 by default) with a GraphQL schema auto-gene
 sqd serve
 
 and inspect the auto-generated GraphQL API using an interactive playground at http://localhost:4350/graphql.
+
+@dariaag, @belopash, @abernatskiy and @dzhelezov
